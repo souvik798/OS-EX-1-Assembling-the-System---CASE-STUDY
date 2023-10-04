@@ -1,5 +1,4 @@
-# OS-EX-1-Assembling-the-System---CASE-STUDY
-## AIM:
+
 # OS-EX-1-Assembling-the-System---CASE-STUDY
 
 ## AIM:
